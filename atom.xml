@@ -3,11 +3,11 @@
   <title> Nandemona1ya的博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://nandemona1ya.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-04-10T11:17:29.972Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://nandemona1ya.github.io/"/>
+  <updated>2023-04-12T08:25:48.233Z</updated>
+  <id>https://nandemona1ya.github.io/</id>
   
   <author>
     <name>Nandemona1ya</name>
@@ -17,11 +17,49 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2023/04/10/%E9%99%B6%E5%96%86/"/>
-    <id>http://example.com/2023/04/10/%E9%99%B6%E5%96%86/</id>
+    <title>图片名字</title>
+    <link href="https://nandemona1ya.github.io/2023/04/12/%E5%9B%BE%E7%89%87%E6%96%87%E5%AD%97/%E6%96%87%E5%AD%97/"/>
+    <id>https://nandemona1ya.github.io/2023/04/12/%E5%9B%BE%E7%89%87%E6%96%87%E5%AD%97/%E6%96%87%E5%AD%97/</id>
+    <published>2023-04-12T08:22:11.000Z</published>
+    <updated>2023-04-12T08:25:48.233Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://p7.qhimg.com/t014d46a590e4d07543.jpg" alt="图片名的八个字"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://p7.qhimg.com/t014d46a590e4d07543.jpg&quot; alt=&quot;图片名的八个字&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>代码演示</title>
+    <link href="https://nandemona1ya.github.io/2023/04/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%A0%B7%E5%BC%8F/%E6%BC%94%E7%A4%BA/"/>
+    <id>https://nandemona1ya.github.io/2023/04/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%A0%B7%E5%BC%8F/%E6%BC%94%E7%A4%BA/</id>
+    <published>2023-04-12T06:13:30.000Z</published>
+    <updated>2023-04-12T07:43:39.537Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> () &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello World&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">代码块的演示</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>David Tao</title>
+    <link href="https://nandemona1ya.github.io/2023/04/10/%E9%99%B6%E5%96%86/"/>
+    <id>https://nandemona1ya.github.io/2023/04/10/%E9%99%B6%E5%96%86/</id>
     <published>2023-04-10T11:17:12.182Z</published>
-    <updated>2023-04-10T11:17:29.972Z</updated>
+    <updated>2023-04-12T07:35:38.479Z</updated>
     
     <content type="html"><![CDATA[<p>陶喆（David Zee Tao），1969年7月11日出生于中国香港，华语流行乐男歌手、音乐人，毕业于美国加利福尼亚大学洛杉矶分校。1993年以音乐制作人身份进入音乐圈，之后为张信哲、陈淑桦、郑中基等歌手制作专辑、创作歌曲。1997年转型成为歌手，凭借首张个人专辑《David Tao》获得关注，并将R&amp;B曲风的音乐引入中国台湾流行乐坛。1998年凭借专辑《David Tao》获得第9届台湾金曲奖 </p>]]></content>
     
@@ -38,11 +76,19 @@
   
   <entry>
     <title>My First Blog</title>
-    <link href="http://example.com/2023/04/10/My-First-Blog/"/>
-    <id>http://example.com/2023/04/10/My-First-Blog/</id>
+    <link href="https://nandemona1ya.github.io/2023/04/10/My-First-Blog/"/>
+    <id>https://nandemona1ya.github.io/2023/04/10/My-First-Blog/</id>
     <published>2023-04-10T11:06:23.000Z</published>
-    <updated>2023-04-10T11:06:23.282Z</updated>
+    <updated>2023-04-12T08:03:53.082Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>12131<br>asfaa</p><h2 id="二级标题-1"><a href="#二级标题-1" class="headerlink" title="二级标题"></a>二级标题</h2><p>12131</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>ihiohn<br>asfaa</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;p&gt;12131&lt;br&gt;asfaa&lt;/p&gt;
+&lt;h2 id=&quot;二级标题-1&quot;&gt;&lt;a href=&quot;#二级标题-1&quot; class=&quot;he</summary>
+      
     
     
     
@@ -51,8 +97,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/04/10/hello-world/"/>
-    <id>http://example.com/2023/04/10/hello-world/</id>
+    <link href="https://nandemona1ya.github.io/2023/04/10/hello-world/"/>
+    <id>https://nandemona1ya.github.io/2023/04/10/hello-world/</id>
     <published>2023-04-10T10:09:46.666Z</published>
     <updated>2023-04-10T02:29:07.458Z</updated>
     

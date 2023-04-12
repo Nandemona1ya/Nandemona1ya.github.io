@@ -1,5 +1,9 @@
-http://example.com/tags/index.html
-http://example.com/2023/04/10/%E9%99%B6%E5%96%86/
-http://example.com/2023/04/10/My-First-Blog/
-http://example.com/2023/04/10/hello-world/
-http://example.com/
+https://nandemona1ya.github.io/2023/04/12/%E5%9B%BE%E7%89%87%E6%96%87%E5%AD%97/%E6%96%87%E5%AD%97/
+https://nandemona1ya.github.io/2023/04/10/My-First-Blog/
+https://nandemona1ya.github.io/2023/04/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%A0%B7%E5%BC%8F/%E6%BC%94%E7%A4%BA/
+https://nandemona1ya.github.io/link/index.html
+https://nandemona1ya.github.io/2023/04/10/%E9%99%B6%E5%96%86/
+https://nandemona1ya.github.io/categories/index.html
+https://nandemona1ya.github.io/tags/index.html
+https://nandemona1ya.github.io/2023/04/10/hello-world/
+https://nandemona1ya.github.io/
